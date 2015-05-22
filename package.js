@@ -1,8 +1,9 @@
 Package.describe({
-    name: 'particle4dev:cordova-email',
+    name: 'lethanh:cordova-email',
     version: '1.0.0',
     summary: 'The plugin manages the editing and sending an email message',
     git: 'https://github.com/thanhlvbk/cordova-email.git',
+    documentation: null
 });
 
 Cordova.depends({
