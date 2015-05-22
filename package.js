@@ -20,6 +20,6 @@ Package.onUse(function(api) {
 
 Package.onTest(function(api) {
     api.use('tinytest');
-    api.use('particle4dev:cordova-email');
+    api.use('lethanh:cordova-email');
     api.addFiles('cordova-email-tests.js');
 });
