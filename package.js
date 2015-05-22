@@ -1,7 +1,7 @@
 Package.describe({
     name: 'particle4dev:cordova-email',
     version: '1.0.0',
-    summary: 'The plugin provides access to the standard interface that manages the editing and sending an email message',
+    summary: 'The plugin manages the editing and sending an email message',
     git: 'https://github.com/thanhlvbk/cordova-email.git',
 });
 
